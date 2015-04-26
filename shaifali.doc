@@ -1,0 +1,274 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f4\froman\fprq0\fcharset1 Liberation Serif{\*\falt Times New Roman};}{\f5\fswiss\fprq0\fcharset1 Liberation Sans{\*\falt Arial};}{\f6\froman\fprq2\fcharset1 Times New Roman;}{\f7\froman\fprq0\fcharset1 Times New Roman;}{\f8\fnil\fprq0\fcharset1 OpenSymbol{\*\falt Arial Unicode MS};}{\f9\fnil\fprq2\fcharset1 DejaVu Sans;}{\f10\fnil\fprq0\fcharset1 Times New Roman Baltic;}{\f11\fnil\fprq2\fcharset1 Times New Roman Baltic;}{\f12\fnil\fprq0\fcharset1 Lohit Hindi;}{\f13\fnil\fprq0\fcharset1 Times New Roman;}{\f14\fnil\fprq2\fcharset1 Lohit Hindi;}{\f15\fnil\fprq2\fcharset1 Times New Roman;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green0\blue0;\red192\green192\blue192;\red128\green128\blue128;\red0\green0\blue1;}
+{\stylesheet{\s0\snext0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393 Normal;}
+{\*\cs15\snext15\dbch\af8\dbch\af8\loch\f8 Bullets;}
+{\*\cs16\snext16 Numbering Symbols;}
+{\s17\sbasedon0\snext18\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn\kerning1\dbch\af10\langfe2052\dbch\af13\afs28\alang1081\loch\f5\fs28\lang16393 Heading;}
+{\s18\sbasedon0\snext18\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\kerning1\langfe2052\dbch\af10\afs24\alang1081\loch\f4\fs24\lang16393 Text body;}
+{\s19\sbasedon18\snext19\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\kerning1\langfe2052\dbch\af10\afs24\alang1081\loch\f4\fs24\lang16393 List;}
+{\s20\sbasedon0\snext20\sb120\sa120\noline\i\dbch\af12\afs24\ai\fs24 Caption;}
+{\s21\sbasedon0\snext21\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\noline\kerning1\langfe2052\dbch\af10\afs24\alang1081\loch\f4\fs24\lang16393 Index;}
+{\s22\snext22\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb120\sa120{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\i\kerning1\langfe2052\dbch\af10\afs24\alang1081\ai\cf0\dbch\af9\loch\f4\fs24\lang16393 caption;}
+{\s23\sbasedon0\snext23\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\noline\kerning1\langfe2052\dbch\af10\afs24\alang1081\loch\f4\fs24\lang16393 Table Contents;}
+}{\*\listtable{\list\listtemplateid1
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u183 ?;}{\levelnumbers;}\f8\fi-360\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u1\'010;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u2\'020;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u3\'030;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u4\'040;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u5\'050;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u6\'060;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u7\'070;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u8\'080;}{\levelnumbers\'01;}\fi-360\li3600}\listid1}
+{\list\listtemplateid2
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f8\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f8\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f8\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f8\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f8\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f8\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f8\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f8\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f8\fi-360\li3600}\listid2}
+{\list\listtemplateid3
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u0\'00);}{\levelnumbers\'01;}\fi-360\li720}
+{\listlevel\levelnfc4\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u1\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc2\leveljc2\levelstartat1\levelfollow0{\leveltext \'02\u2\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u3\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc4\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u4\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc2\leveljc2\levelstartat1\levelfollow0{\leveltext \'02\u5\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u6\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc4\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u7\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc2\leveljc2\levelstartat1\levelfollow0{\leveltext \'02\u8\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid3}
+{\list\listtemplateid4
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f8\dbch\af8\fi-360\li720}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f8\dbch\af8\fi-360\li1080}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f8\dbch\af8\fi-360\li1440}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f8\dbch\af8\fi-360\li1800}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f8\dbch\af8\fi-360\li2160}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f8\dbch\af8\fi-360\li2520}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u8226 ?;}{\levelnumbers;}\f8\dbch\af8\fi-360\li2880}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9702 ?;}{\levelnumbers;}\f8\dbch\af8\fi-360\li3240}
+{\listlevel\levelnfc23\leveljc0\levelstartat1\levelfollow0{\leveltext \'01\u9642 ?;}{\levelnumbers;}\f8\dbch\af8\fi-360\li3600}\listid4}
+{\list\listtemplateid5
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u0\'00.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u1\'01.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u2\'02.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u3\'03.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u4\'04.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u5\'05.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u6\'06.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u7\'07.;}{\levelnumbers\'01;}\fi-360\li3600}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\u8\'08.;}{\levelnumbers\'01;}\fi-360\li3960}\listid5}
+{\list\listtemplateid6
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi-432\li432}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi-576\li576}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi-720\li720}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi-864\li864}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi-1008\li1008}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi-1152\li1152}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi-1296\li1296}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi-1440\li1440}
+{\listlevel\levelnfc255\leveljc0\levelstartat1\levelfollow2{\leveltext \'00;}{\levelnumbers;}\fi-1584\li1584}\listid6}
+}{\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}}{\info{\author shaifali }{\creatim\yr2013\mo5\dy9\hr23\min23}{\revtim\yr2013\mo5\dy9\hr23\min30}{\printim\yr0\mo0\dy0\hr0\min0}{\comment LibreOffice}{\vern3600}}\deftab720\deftab720
+\viewscale90
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\pgdscnxt0 Default;}}
+\formshade{\*\pgdscno0}\paperh15840\paperw12240\margl1800\margr1800\margt1440\margb1440\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\langfe2052\dbch\af10\afs24\alang1081\ab\rtlch \ltrch\loch\fs24\lang1081\loch\f7
+SHAIFALI AGRAWAL}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Email id:          }{\cf2\ul\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+agrawalshaifali09@gmail.com}{\cf3\ul\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+ }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Contact Number: 7509119894}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi0\cf1\ulnone\ulc1\b\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Career Objective:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+To seek challenging assignment and responsibility, with an opportunity for growth and career advancement as successful achievements. }{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+I am on the endless journey of learning and sharing.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ul\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\ql\nowidctlpar\tqr\tx540\tx900\tqr\tx3780\tx3960\faauto\li0\ri0\lin0\rin0\fi0\cbpat5{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Academic Details:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \trowd\trql\trleft-108\ltrrow\trrh301\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx1194\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx3698\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx5822\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx6637\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx8532\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Qualification}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+School/College}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+University/Board}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Year}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Percentage (%)}\cell\row\pard\trowd\trql\trleft-108\ltrrow\trrh315\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx1194\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx3699\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx5823\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx6639\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx8532\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Integrated MCA(3rd yr)}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+International Institute of professional studies Indore}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+DAVV }\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+2013}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+CGPA}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+9.2pointers}\cell\row\pard\trowd\trql\trleft-108\ltrrow\trrh320\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx1194\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx3699\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx5823\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx6639\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx8532\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+HSC}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Sanmati School}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Indore}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+CBSE}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+2010}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+75.2 %}\cell\row\pard\trowd\trql\trleft-108\ltrrow\trrh320\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx1194\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx3699\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx5823\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx6639\clbrdrt\brdrs\brdrw15\brdrcf7\clbrdrl\brdrs\brdrw15\brdrcf7\clbrdrb\brdrs\brdrw15\brdrcf7\clbrdrr\brdrs\brdrw15\brdrcf7\clvertalt\cellx8532\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+SSC}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Sanmati  School}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Indore}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+CBSE}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+2008}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\qc\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+82%}\cell\row\pard\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\ql\nowidctlpar\faauto\li1605\ri0\lin1605\rin0\fi0\sb100\sa100\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cbpat5{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Technical skills:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ulnone\ulc1\b\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \trowd\trql\trleft-108\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw10\brdrcf7\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx4157\clbrdrt\brdrs\brdrw10\brdrcf7\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx8531\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs22\alang1081\rtlch \ltrch\loch\fs22\lang16393\loch\f7
+Languages}\cell\trowd\trql\trleft-108\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw10\brdrcf7\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx4157\clbrdrt\brdrs\brdrw10\brdrcf7\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx8531\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs22\alang1081\rtlch \ltrch\loch\fs22\lang16393\loch\f7
+C, C++, J2SE, J2EE, Python}\cell\cell\row\pard\trowd\trql\trleft-108\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw10\brdrcf7\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx4157\clbrdrt\brdrs\brdrw10\brdrcf7\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx8531\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs22\alang1081\rtlch \ltrch\loch\fs22\lang16393\loch\f7
+Web Technologies}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs22\alang1081\rtlch \ltrch\loch\fs22\lang16393\loch\f7
+HTML, CSS, JavaScript, }{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs22\alang1081\rtlch \ltrch\loch\fs22\lang16393\loch\f7
+Bootstrap}\cell\row\pard\trowd\trql\trleft-108\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx4157\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx8531\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs22\alang1081\ab\rtlch \ltrch\loch\fs22\lang16393\loch\f7
+Frameworks}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b0\kerning1\dbch\af10\langfe2052\dbch\af13\afs22\alang1081\ab0\rtlch \ltrch\loch\fs22\lang16393\loch\f7
+Django, Hibernet, Struts, Hadoop, R}\cell\row\pard\trowd\trql\trleft-108\ltrrow\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx4157\clbrdrl\brdrs\brdrw10\brdrcf7\clbrdrb\brdrs\brdrw10\brdrcf7\clbrdrr\brdrs\brdrw10\brdrcf7\clvertalt\cellx8531\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs22\alang1081\ab\rtlch \ltrch\loch\fs22\lang16393\loch\f7
+Version Control Services}\cell\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\intbl\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\b0\kerning1\dbch\af10\langfe2052\dbch\af13\afs22\alang1081\ab0\rtlch \ltrch\loch\fs22\lang16393\loch\f7
+Github, Bitbucket}\cell\row\pard\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ulnone\ulc1\b\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Minor project:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain  1)\tab}\ilvl0\ls3 \li1440\ri0\lin1440\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi-360{\cf1\b\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\fs24\lang1033\loch\f7
+ }{\cf1\b\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Automation of Bonafide Certificate System(Desktop Application)}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Description: }{\cf1\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+The project has automate the creation of Bonafide certificate, store the data of students who have issued it and also include instant searching facility}{\cf1\b\kerning1\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f4
+.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\b\kerning1\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Technologies: }{\cf1\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Java, sqlite, Netbeans}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\b\kerning1\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Role: }{\cf1\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Developer }{\cf1\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+and Analyst}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\b\kerning1\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Modules:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain \dbch\af8\dbch\af8\loch\f8 \u8226\'95\tab}\ilvl0\ls4 \li720\ri0\lin720\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto{\cf1\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Development of proper GUI to satisfy users.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain \dbch\af8\dbch\af8\loch\f8 \u8226\'95\tab}\ilvl0\ls4 \li720\ri0\lin720\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto{\cf1\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Generating Certificate using Jasper Reporter.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain \dbch\af8\dbch\af8\loch\f8 \u8226\'95\tab}\ilvl0\ls4 \li720\ri0\lin720\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto{\cf1\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Storing data of issued Certificates.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+2)}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\b\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Description:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain  \u183\'b7\tab}\ilvl0\ls1 \li1440\ri0\lin1440\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi-720{\cf1\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Include a registration form developed using javascript.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain  \u183\'b7\tab}\ilvl0\ls1 \li1440\ri0\lin1440\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi-720{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe1033\dbch\af13\afs24\alang1025\rtlch \ltrch\loch\fs24\lang1033\loch\f7
+Images can be display or hidden as per user requirement(using jquery).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi-720\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\ql\nowidctlpar\tqr\tx540\tx900\tqr\tx3780\tx3960\faauto\li0\ri0\lin0\rin0\fi0\cbpat5{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Strengths:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+My strength is my profound willingness to learn new things and hard work, my strong commitment towards my job and my preserving attitude. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ul\ulc1\b\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ul\ulc1\b\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\ql\nowidctlpar\tqr\tx540\tx900\tqr\tx3780\tx3960\faauto\li0\ri0\lin0\rin0\fi0\cbpat5{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Hobbies:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain  1.\tab}\ilvl0\ls5 \li1080\ri0\lin1080\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Dance.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain  2.\tab}\ilvl0\ls5 \li1080\ri0\lin1080\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Art and Craft}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain  3.\tab}\ilvl0\ls5 \li1080\ri0\lin1080\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+programming}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi-360\cf1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\tqr\tx540\tx900\tqr\tx3780\tx3960\faauto\li0\ri0\lin0\rin0\fi0\cbpat5{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Achievements}
+\par \pard\plain \s18\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\kerning1\langfe2052\dbch\af10\afs24\alang1081\loch\f4\fs24\lang16393{\listtext\pard\plain  \u8226\'95\tab}\ilvl0\ls2 \li1440\ri0\lin1440\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi-360\sb0\sa120{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+I have been a part of the winning team of college level technical cum management fest Turista'12 and won most of the competitions in technical }{{\*\bkmkstart __DdeLink__318_1623186053}\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+pavilion}{{\*\bkmkend __DdeLink__318_1623186053}\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+ and dancing competitions}{\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393
+.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain  \u8226\'95\tab}\ilvl0\ls2 \li1440\ri0\lin1440\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi-360{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+I being Head Girl of my school.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393{\listtext\pard\plain  \u8226\'95\tab}\ilvl0\ls2 \li1440\ri0\lin1440\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi-360{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+I have been awarded as best co-scholastic student of my school.}
+\par \pard\plain \s18\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\kerning1\langfe2052\dbch\af10\afs24\alang1081\loch\f4\fs24\lang16393{\listtext\pard\plain  \u8226\'95\tab}\ilvl0\ls2 \li1440\ri0\lin1440\rin0\fi-360\sl276\slmult1\ql\nowidctlpar\faauto\li720\ri0\lin720\rin0\fi-360\sb0\sa120{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+I have been awarded}{\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393
+\~}{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+some district level  prize in dance competitions. }
+\par \pard\plain \s18\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\kerning1\langfe2052\dbch\af10\afs24\alang1081\loch\f4\fs24\lang16393\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\cf1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\ql\nowidctlpar\tqr\tx540\tx900\tqr\tx3780\tx3960\faauto\li0\ri0\lin0\rin0\fi0\cbpat5{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Personal Details:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Date of Birth-\tab \tab : 9 Oct 1992}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Language Known\tab : English, Hindi}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Gender-\tab \tab : Female}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Marital Status\tab \tab : Single}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Father\tab \tab \tab : Radheshyam Gupta}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li2160\ri0\lin2160\rin0\fi-2160{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Permanent Address-\tab : 303, Poojadeep apartment 1 Agrawal Nagar Indore}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\ql\nowidctlpar\tqr\tx540\tx900\tqr\tx3780\tx3960\faauto\li0\ri0\lin0\rin0\fi0\cbpat5{\cf1\ulnone\ulc1\b\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Declaration}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\cf1\ulnone\ulc1\kerning1\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f4
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+I hereby declare that all the information given above is true to the best of my knowledge.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Date:  \tab }{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+9}{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+-May-201}{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+4}{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+\tab \tab \tab \tab                                                                          }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+Place:  Indore\tab \tab \tab \tab \tab \tab                                                           Shaifali Agrawal}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\kerning1\dbch\af9\langfe2052\dbch\af14\afs24\alang1081\loch\f3\fs24\lang16393\sl276\slmult1\ql\nowidctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200{\cf1\ulnone\ulc1\kerning1\dbch\af10\langfe2052\dbch\af13\afs24\alang1081\rtlch \ltrch\loch\fs24\lang16393\loch\f7
+P.S. : I am prone to work in Data Science, thoug didn't have much experience yet but soon get it!}
+\par }
