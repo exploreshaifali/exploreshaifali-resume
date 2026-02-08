@@ -1,0 +1,143 @@
+\documentclass[a4paper,10.5pt]{article}
+
+%----------------------------------------------------------------------------------------
+%   PACKAGES & SETUP
+%----------------------------------------------------------------------------------------
+\usepackage{url}
+\RequirePackage{color}
+\RequirePackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[scale=0.92, top=0.45in, bottom=0.45in]{geometry}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+\usepackage{titlesec}
+
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{8pt}{6pt}
+
+\usepackage[unicode, draft=false]{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{
+    colorlinks=true,
+    urlcolor=linkcolour,
+    linkcolor=linkcolour,
+    pdfborder={0 0 0},
+    hidelinks
+}
+
+\usepackage{fontawesome5}
+
+%----------------------------------------------------------------------------------------
+%   CUSTOM ENVIRONMENTS
+%----------------------------------------------------------------------------------------
+
+\newenvironment{joblong}[3]
+    {\begin{tabularx}{\linewidth}{@{}l X r@{}}
+    \textbf{#1} & \hfill & \small #3 \\
+    \small\textit{#2} & \hfill & \\
+    \end{tabularx}\vspace{2pt}
+    \begin{itemize}[nosep, leftmargin=1.4em, itemsep=2pt, topsep=2pt, label=\textbullet]
+    }
+    {\end{itemize}\vspace{6pt}}
+
+%----------------------------------------------------------------------------------------
+%   BEGIN DOCUMENT
+%----------------------------------------------------------------------------------------
+\begin{document}
+\pagestyle{empty}
+
+%----------------------------------------------------------------------------------------
+%   HEADER
+%----------------------------------------------------------------------------------------
+\begin{center}
+    {\huge\textbf{Shaifali Agrawal}} \\[6pt]
+
+    \resizebox{\textwidth}{!}{%
+    \footnotesize{
+        \href{mailto:agrawalshaifali09@gmail.com}{\faEnvelope\ agrawalshaifali09@gmail.com}
+        \hspace{0.7cm}
+        \href{tel:+917509119894}{\faMobile\ +91-7509119894}
+        \hspace{0.7cm}
+        \href{https://linkedin.com/in/exploreshaifali}{\faLinkedin\ exploreshaifali}
+        \hspace{0.7cm}
+        \href{https://github.com/exploreshaifali}{\faGithub\ exploreshaifali}
+        \hspace{0.7cm}
+        {\faMapMarker*\ India}
+    }
+}
+
+\end{center}
+
+%----------------------------------------------------------------------------------------
+%   EXPERIENCE
+%----------------------------------------------------------------------------------------
+\section{Experience}
+
+\begin{joblong}{Flipkart (E-commerce Marketplace)}{Senior Software Engineer, Video Commerce Team}{Nov 2024 -- Present}
+\item Transforming Flipkart from a search-led marketplace to a discovery-led platform to drive customer growth.
+% \item Working across Video Creation \& Discovery, Processing, Live Streaming, and Affiliate Programs.
+\item Designed and drove integration of influencer livestreams directly into Product Pages and other key app surfaces using content federator, improving visibility, engagement, ROI, livestream reach, and GMV impact.
+\item Eliminated enricher pipeline sideline backlog by identifying and fixing multiple edge-case failures, reducing queue count to zero and stabilizing future processing.
+\item Executed a production backfill to clean up corrupted HBase content by building deletion and backfilling APIs to restore data.
+\end{joblong}
+
+\begin{joblong}{SAP}{Senior Software Engineer, AI Foundation}{Jul 2021 -- Nov 2021}
+\item Built a framework to migrate all MLF users to the new AIcore platform.
+\end{joblong}
+
+\begin{joblong}{MoEngage (Cloud Marketing Platform)}{Senior Software Engineer, Push Team}{Oct 2017 -- Oct 2019}
+\item Improved campaign sending time by 60\% via concurrency and user-segmentation precaching.
+\item Reduced campaign failure rate by 95\% by building an autonomous internal monitoring system.
+\item Built a private Python personalization package using Jinja, adopted across multiple services.
+\item Designed backend systems for SMS, Webhook, and Push notification campaigns.
+\end{joblong}
+
+\begin{joblong}{HashGrowth (App Store Optimization Platform)}{Co-founder \& CTO (YC SUS17)}{Oct 2016 -- Oct 2017}
+\item Bootstrapped a B2B SaaS App Store Optimization platform.
+\item Designed a crawler to index the entire Google Play Store.
+\end{joblong}
+
+\begin{joblong}{Zaya Learning Labs}{Software Engineer}{Jan 2016 -- Oct 2016}
+\item Built distributed applications using Python, Django, and Django REST Framework.
+\item Created \textbf{Django-SoftDelete-It}, an open-source reusable app for soft-delete support.
+\end{joblong}
+
+%----------------------------------------------------------------------------------------
+%   SKILLS
+%----------------------------------------------------------------------------------------
+\section{Skills}
+{\small
+\begin{tabularx}{\linewidth}{@{}l X@{}}
+\textbf{Languages} & Python, Java, Bash \\
+\textbf{Frameworks} & Django, DRF, Micronaut, Dropwizard, Bootstrap, Locust.io \\
+\textbf{Databases} & PostgreSQL, MongoDB, MySQL, HBase, SQLite, Redis, Aerospike \\
+\textbf{Infrastructure} & Kubernetes, AWS, DigitalOcean, OpenStack, Nginx, HAProxy, RabbitMQ \\
+\end{tabularx}
+}
+
+%----------------------------------------------------------------------------------------
+%   TALKS
+%----------------------------------------------------------------------------------------
+\section{Talks}
+{\small
+\begin{tabularx}{\linewidth}{@{}l X@{}}
+2017 & \textbf{Generators Under The Hood} -- BangPypers Meetup \\
+2016 & \textbf{Getting Started with python-openstacksdk} -- OpenStack Summit \\
+2015 & \textbf{Outreachy with OpenStack Zaqar} -- OpenStack Day India \\
+\end{tabularx}
+}
+
+%----------------------------------------------------------------------------------------
+%   EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+{\small
+\begin{tabularx}{\linewidth}{@{}l X r@{}}
+2013 -- 2016 & Masters of Computer Application, \textbf{IIPS, DAVV} & CGPA: 8.91/10 \\
+2010 -- 2013 & Bachelor of Computer Applications, \textbf{IIPS, DAVV} & CGPA: 9.07/10 \\
+\end{tabularx}
+}
+
+
+\end{document}
