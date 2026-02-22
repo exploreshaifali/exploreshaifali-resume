@@ -59,9 +59,9 @@
         \hspace{0.7cm}
         \href{tel:+917509119894}{\faMobile\ +91-7509119894}
         \hspace{0.7cm}
-        \href{https://linkedin.com/in/exploreshaifali}{\faLinkedin\ exploreshaifali}
+        \href{https://linkedin.com/in/exploreshaifali}{\faLinkedin\ https://linkedin.com/in/exploreshaifali}
         \hspace{0.7cm}
-        \href{https://github.com/exploreshaifali}{\faGithub\ exploreshaifali}
+        \href{https://github.com/exploreshaifali}{\faGithub\ https://github.com/exploreshaifali}
         \hspace{0.7cm}
         {\faMapMarker*\ India}
     }
@@ -72,42 +72,43 @@
 %----------------------------------------------------------------------------------------
 %   EXPERIENCE
 %----------------------------------------------------------------------------------------
-\section{Experience}
+\section{Work Experience}
 
 \begin{joblong}{Flipkart (E-commerce Marketplace)}{Senior Software Engineer, Video Commerce Team}{Nov 2024 -- Present}
-\item Transforming Flipkart from a search-led marketplace to a discovery-led platform to drive customer growth.
+% \item Transforming Flipkart from a search-led marketplace to a discovery-led platform to drive customer growth.
 % \item Working across Video Creation \& Discovery, Processing, Live Streaming, and Affiliate Programs.
-\item Designed and drove integration of influencer livestreams directly into Product Pages and other key app surfaces using content federator, improving visibility, engagement, ROI, livestream reach, and GMV impact.
+\item Led backend integration of influencer livestreams directly into Product Pages and other key app surfaces using content federator, improving visibility, engagement, ROI, livestream reach, and GMV impact.
 \item Eliminated enricher pipeline sideline backlog by identifying and fixing multiple edge-case failures, reducing queue count to zero and stabilizing future processing.
-\item Executed a production backfill to clean up corrupted HBase content by building deletion and backfilling APIs to restore data.
+\item Developed backfill framework handling 5M+ HBase records with zero production downtime and no regression in content exposure latency.
+\item Architected and productionized a scheduled Spark fact on Flipkart Data Platform aggregating creators, contents, commissions and earnings data; led a large-scale historical backfill for 13M+ orders using batched processing with multi-threaded fan-out to 3 downstream services, optimizing throughput while maintaining system stability and data consistency.
 \end{joblong}
 
 \begin{joblong}{SAP}{Senior Software Engineer, AI Foundation}{Jul 2021 -- Nov 2021}
-\item Built a framework to migrate all MLF users to the new AIcore platform.
+\item Developed a framework to migrate all MLF users to the new AIcore platform.
 \end{joblong}
 
 \begin{joblong}{MoEngage (Cloud Marketing Platform)}{Senior Software Engineer, Push Team}{Oct 2017 -- Oct 2019}
-\item Improved campaign sending time by 60\% via concurrency and user-segmentation precaching.
+\item Improved campaign sending time by 60\% via concurrency and user-segmentation precaching for 3 million active users.
 \item Reduced campaign failure rate by 95\% by building an autonomous internal monitoring system.
 \item Built a private Python personalization package using Jinja, adopted across multiple services.
-\item Designed backend systems for SMS, Webhook, and Push notification campaigns.
+\item Designed and implemented backend systems for SMS, Webhook, and Push notification campaigns.
 \end{joblong}
 
 \begin{joblong}{HashGrowth (App Store Optimization Platform)}{Co-founder \& CTO (YC SUS17)}{Oct 2016 -- Oct 2017}
 \item Bootstrapped a B2B SaaS App Store Optimization platform.
-\item Designed a crawler to index the entire Google Play Store.
+\item Engineered a high-throughput, distributed crawler indexing 2.6M+ apps on Google Play Store.
 \end{joblong}
 
 \begin{joblong}{Zaya Learning Labs}{Software Engineer}{Jan 2016 -- Oct 2016}
 \item Built distributed applications using Python, Django, and Django REST Framework.
-\item Created \textbf{Django-SoftDelete-It}, an open-source reusable app for soft-delete support.
+\item Architected and open-sourced \textbf{Django-SoftDelete-It}, a reusable Django application providing soft-delete support with query-level filtering and model lifecycle management.
 \end{joblong}
 
-\begin{joblong}{Google Summer of Code (Systers, AnitaB.org)}{Intern}{May 2015 -- Aug 2015}
+\begin{joblong}{Google Summer of Code (Systers, AnitaB.org)}{Intern, Open Source Development}{May 2015 -- Aug 2015}
 \item Performed Full Stack web development to build a meetup management system to facilitate the Systers Portal.
 \end{joblong}
 
-\begin{joblong}{Outreachy (OpenStack Foundation)}{Intern}{Dec 2014 -- Mar 2015}
+\begin{joblong}{Outreachy (OpenStack Foundation)}{Intern, Open Source Contribution}{Dec 2014 -- Mar 2015}
 \item Split the data and control planes of Zaqar’s (OpenStack messaging service) storage layer to improve architectural modularity.
 \end{joblong}
 
@@ -117,17 +118,17 @@
 \section{Skills}
 {\small
 \begin{tabularx}{\linewidth}{@{}l X@{}}
-\textbf{Languages} & Python, Java, Bash \\
-\textbf{Frameworks} & Django, DRF, Micronaut, Dropwizard, Bootstrap, Locust.io \\
-\textbf{Databases} & PostgreSQL, MongoDB, MySQL, HBase, SQLite, Redis, Aerospike \\
-\textbf{Infrastructure} & Kubernetes, AWS, DigitalOcean, OpenStack, Nginx, HAProxy, RabbitMQ \\
+\textbf{Languages} & Python(primary), Java, Bash, GoLang \\
+\textbf{Frameworks} & Django, DRF, Micronaut, Dropwizard, Bootstrap, Locust.io, RabbitMQ, Kafka, REST API \\
+\textbf{Databases} & PostgreSQL, MongoDB, MySQL, HBase(large-scale), SQLite, Redis, Aerospike \\
+\textbf{Infrastructure} & Kubernetes, AWS, DigitalOcean, OpenStack, Linux, Nginx, HAProxy \\
 \end{tabularx}
 }
 
 %----------------------------------------------------------------------------------------
 %   TALKS
 %----------------------------------------------------------------------------------------
-\section{Talks}
+\section{Talks and Conferences}
 {\small
 \begin{tabularx}{\linewidth}{@{}l X@{}}
 2017 & \textbf{Generators Under The Hood} -- BangPypers Meetup \\
